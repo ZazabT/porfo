@@ -38,7 +38,7 @@ const FAQs: FC = () => {
     <section>
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         {/* FAQ Section Header */}
-        <header className="p-6 text-center">
+        <header className="item-start">
           <h2 className="text-4xl font-bold text-gray-800">Frequently Asked Questions</h2>
           <p className="text-lg mt-2 text-gray-600">
             Find answers to some of the most common questions about our services and platform.

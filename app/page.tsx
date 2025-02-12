@@ -7,7 +7,7 @@ import Navigation from '../components/navigation';
 import Hero from '../components/hero';
 import Project from '../components/project';
 import Skill from '../components/skill';
-import FAQS from '../components/faqs';
+import FAQS from '@/components/faqs';
 import Footer from '@/components/footer';
 
 const AnimatedSection = ({ children }: { children: React.ReactNode }) => {
